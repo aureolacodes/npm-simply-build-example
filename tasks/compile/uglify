@@ -1,0 +1,8 @@
+##
+# Uglify: second script in the compile task.
+##
+./node_modules/.bin/uglifyjs \
+  --compress \
+  --mangle \
+  --output ./dist/example.min.js \
+  -- ./dist/example.js

@@ -1,0 +1,4 @@
+##
+# jshint: first script in the compile task.
+##
+./node_modules/.bin/jshint ./src/example.es6

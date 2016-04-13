@@ -1,5 +1,5 @@
 /**
- * Babelify: first script in the compile task.
+ * Babelify: first script in the compile group.
  */
 'use strict';
 

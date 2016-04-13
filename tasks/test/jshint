@@ -1,4 +1,4 @@
 ##
-# jshint: first script in the compile task.
+# jshint: second script in the test group.
 ##
 ./node_modules/.bin/jshint ./src/example.es6

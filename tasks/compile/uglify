@@ -1,5 +1,5 @@
 ##
-# Uglify: second script in the compile task.
+# Uglify: second script in the compile group.
 ##
 ./node_modules/.bin/uglifyjs \
   --compress \

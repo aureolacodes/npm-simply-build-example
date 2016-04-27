@@ -1,0 +1,17 @@
+{
+  "name": "simply-build-example-task",
+  "version": "0.0.0",
+  "description": "Dependencies can be defined in any json file using the npm syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  },
+  "dependencies": {
+    "node-sass": "^3.6.0"
+  }
+}
